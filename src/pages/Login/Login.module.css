@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 1rem;
+}
+.form label{
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+.redirect{
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
